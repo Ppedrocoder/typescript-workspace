@@ -1,4 +1,4 @@
-class Quadrado implements Forma {
+export class Quadrado implements Forma {
     private lado: number;
 
     constructor(lado: number) {

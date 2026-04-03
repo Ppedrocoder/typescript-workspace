@@ -1,4 +1,4 @@
-class Retangulo implements Forma {
+export class Retangulo implements Forma {
     private base :number;
     private altura :number
 
